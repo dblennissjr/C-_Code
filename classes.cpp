@@ -10,7 +10,7 @@ class Student{
 
   public:
     Student(){
-      cout << "**New Student Created**" << endl;
+      cout << "---New Student Created---" << endl;
     } // executes with each new instance of the class aka constructor
 
     void displayStudent(){
