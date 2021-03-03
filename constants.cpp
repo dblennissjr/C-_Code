@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
   const int i = 3;
   const float pi = 3.14;
 
